@@ -1,0 +1,76 @@
+.nav {
+    position: sticky;
+}
+
+.nav-link {
+    background-color: white;
+    font-family: 'News Cycle', sans-serif;
+    color: black;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: black;
+}
+
+.display-4 {
+    font-family: 'Gilda Display', serif;
+    text-align: center;
+    font-size: 72px;
+}
+.lead {
+    font-family: 'News Cycle', sans-serif;
+    text-align: center;
+}
+
+.jumbotron-fluid {
+    height: 200px;
+    padding: 0 auto;
+    background-color: white;
+}
+
+.carousel {
+    margin-bottom: 5%;
+    position: relative;
+}
+
+#image {
+    width: 700px;
+    margin-left: 25%;
+}
+
+footer {
+    height: 30px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    position: sticky;
+    text-align: center;
+    font-size: 10px;
+}
+
+.card-title {
+    font-family: 'Gilda Display', serif;
+    text-align: center;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    font-family: 'News Cycle', sans-serif;
+}
+
+.btn1 {
+    margin-left: 60px;
+}
+
+.card {
+    height: 300px;
+    width: 250px;
+    margin-left: 40%;
+    margin-bottom: 70px;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
